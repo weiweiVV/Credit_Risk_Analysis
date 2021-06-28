@@ -14,3 +14,7 @@ There are not much improvement from SMOTE Oversampling comparing with Random Ove
 <img width="464" alt="3" src="https://user-images.githubusercontent.com/19679507/123584442-389fe000-d796-11eb-8170-6020f8307e3a.png">
 There is no changes on precision but the recall is getting worse comparing to the above two oversampling model.
 
+- Combination (Over and Under) Sampling:
+<img width="473" alt="4" src="https://user-images.githubusercontent.com/19679507/123584780-d09dc980-d796-11eb-8424-01b0263a211d.png">
+ 
+
