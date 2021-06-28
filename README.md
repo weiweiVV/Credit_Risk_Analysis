@@ -18,3 +18,5 @@ There is no changes on precision but the recall is getting worse comparing to th
 <img width="473" alt="4" src="https://user-images.githubusercontent.com/19679507/123584780-d09dc980-d796-11eb-8424-01b0263a211d.png">
 These recall is worse than those from random under/oversampling. The precise remain the same.
 
+## Summary:
+None of the models have a high precision for the high risk prediction. Therefore, I will recommend to search for other models for risk prediction.
