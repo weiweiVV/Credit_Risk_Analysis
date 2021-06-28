@@ -8,3 +8,5 @@ The precision ("pre" column) is very low for high risk class which it's critical
 
 - SMOTE Oversampling
 - <img width="461" alt="2" src="https://user-images.githubusercontent.com/19679507/123584227-d515b280-d795-11eb-860d-3d53875a3dd6.png">
+There are not much improvement from SMOTE Oversampling comparing with Random Oversampling.
+
