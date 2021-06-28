@@ -16,5 +16,5 @@ There is no changes on precision but the recall is getting worse comparing to th
 
 - Combination (Over and Under) Sampling:
 <img width="473" alt="4" src="https://user-images.githubusercontent.com/19679507/123584780-d09dc980-d796-11eb-8424-01b0263a211d.png">
- 
+These recall is worse than those from random under/oversampling. The precise remain the same.
 
